@@ -1,3 +1,4 @@
-###It's A simple Note!!!###
+### It's A simple Note!!! ###
 
-Write Down Your Life
+Write Down Your Life!!!
+And Enjoy It
